@@ -2,7 +2,7 @@ import { useState } from "react";
 import { getInfo } from "../services/fetch";
 import { useNavigate } from "react-router-dom";
 import "../styles/Login.css";
-
+// abc
 function FormularioLogin (){
     const [nombreUsuario,setNombreUsuario] = useState("")
     const [claveUsuario,setClaveUsuario] = useState("")
