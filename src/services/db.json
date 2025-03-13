@@ -1,0 +1,18 @@
+{
+  "usuarios": [
+    {
+      "id": "84e9",
+      "nombre": "pene@gmail.com",
+      "clave": "pene"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "1bcc",
+      "tareaTexto": "abccccc",
+      "idUsuario": "84e9",
+      "estado": false,
+      "nombreUsuario": "pene@gmail.com"
+    }
+  ]
+}
